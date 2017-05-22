@@ -2,8 +2,25 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="RingCentral/Tests.cs">
     <Files>
       <File FileName="RingCentral/AppInitializer.cs" Line="28" Column="49" />
-      <File FileName="RingCentral/Tests.cs" Line="31" Column="44" />
+      <File FileName="RingCentral/Tests.cs" Line="8" Column="22" />
     </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="RingCentral" expanded="True">
+            <Node name="RingCentral" expanded="True">
+              <Node name="RingCentral" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="Tests(Android)" expanded="True">
+                    <Node name="Repl" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
