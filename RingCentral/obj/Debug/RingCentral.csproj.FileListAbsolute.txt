@@ -4,7 +4,6 @@
 /Users/junecho/Projects/RingCentral/RingCentral/bin/Debug/Xamarin.UITest.dll
 /Users/junecho/Projects/RingCentral/RingCentral/bin/Debug/nunit.framework.xml
 /Users/junecho/Projects/RingCentral/RingCentral/bin/Debug/Xamarin.UITest.xml
-/Users/junecho/Projects/RingCentral/RingCentral/obj/Debug/RingCentral.csprojResolveAssemblyReference.cache
 /Users/junecho/Projects/RingCentral/RingCentral/obj/Debug/RingCentral.csproj.CoreCompileInputs.cache
 /Users/junecho/Projects/RingCentral/RingCentral/obj/Debug/RingCentral.dll
 /Users/junecho/Projects/RingCentral/RingCentral/obj/Debug/RingCentral.pdb
