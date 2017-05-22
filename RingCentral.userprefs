@@ -1,3 +1,15 @@
-﻿<Properties>
+﻿<Properties StartupConfiguration="{E5CF73B3-9DB0-4431-80C4-7361A3EFF96A}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RingCentral/Tests.cs">
+    <Files>
+      <File FileName="RingCentral/AppInitializer.cs" Line="28" Column="49" />
+      <File FileName="RingCentral/Tests.cs" Line="31" Column="44" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.RingCentral PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
